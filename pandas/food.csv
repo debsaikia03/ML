@@ -1,0 +1,101 @@
+Name,Gender,City,Frequency,Item,Spends
+Kavita,F,Patna,Daily,Pizza,68
+Sita,M,Bangalore,Once,Fries,65
+Kavita,F,Ahmedabad,Daily,Fries,50
+Kavita,F,Delhi,Once,Burger,64
+Neha,M,Chennai,Monthly,Fries,80
+Amit,F,Chennai,Monthly,Sandwich,25
+Amit,M,Hyderabad,Monthly,Samosa,21
+Rohan,M,Chennai,Weekly,Ice Cream,88
+Sita,M,Mumbai,Never,Fries,34
+Sita,F,Bangalore,Daily,Pizza,59
+Sita,M,Bangalore,Once,Pizza,79
+Rohan,M,Kolkata,Weekly,Salad,19
+Anjali,M,Delhi,Monthly,Paneer,33
+Neha,F,Mumbai,Monthly,Paneer,16
+Anjali,M,Pune,Weekly,Paneer,59
+Kavita,M,Pune,Monthly,Salad,71
+Kavita,F,Mumbai,Monthly,Ice Cream,50
+Mohan,M,Chennai,Monthly,Salad,17
+Rohan,M,Kolkata,Once,Ice Cream,10
+Sita,M,Ahmedabad,Weekly,Paneer,96
+Amit,M,Gurgaon,Never,Salad,36
+Mohan,F,Patna,Never,Pizza,57
+Amit,M,Ahmedabad,Monthly,Salad,59
+Sita,M,Chennai,Never,Burger,55
+Anjali,M,Mumbai,Daily,Salad,36
+Kavita,M,Delhi,Weekly,Burger,31
+Kavita,F,Gurgaon,Once,Ice Cream,39
+Rohan,F,Pune,Never,Vada,29
+Priya,F,Gurgaon,Once,Pasta,88
+Sita,F,Chennai,Once,Fries,29
+Kavita,F,Pune,Once,Pasta,71
+Rahul,F,Gurgaon,Never,Ice Cream,68
+Rahul,M,Pune,Once,Ice Cream,18
+Kavita,M,Delhi,Daily,Pizza,74
+Anjali,M,Gurgaon,Monthly,Paneer,66
+Priya,M,Ahmedabad,Once,Pasta,68
+Anjali,F,Bangalore,Daily,Ice Cream,86
+Mohan,M,Delhi,Weekly,Sandwich,96
+Suresh,M,Ahmedabad,Daily,Salad,96
+Mohan,M,Delhi,Daily,Burger,39
+Neha,M,Mumbai,Weekly,Salad,68
+Sita,M,Pune,Monthly,Pasta,48
+Neha,F,Ahmedabad,Once,Samosa,81
+Anjali,F,Delhi,Once,Vada,95
+Sita,F,Mumbai,Once,Vada,59
+Rahul,M,Bangalore,Daily,Ice Cream,26
+Suresh,M,Gurgaon,Weekly,Burger,48
+Sita,F,Delhi,Once,Burger,92
+Neha,F,Mumbai,Once,Salad,26
+Rohan,M,Pune,Daily,Sandwich,82
+Sita,F,Kolkata,Daily,Ice Cream,36
+Suresh,M,Hyderabad,Daily,Salad,37
+Priya,F,Chennai,Monthly,Sandwich,97
+Rohan,M,Kolkata,Monthly,Vada,80
+Amit,M,Bangalore,Monthly,Pasta,13
+Amit,M,Delhi,Daily,Vada,37
+Amit,M,Chennai,Never,Ice Cream,43
+Mohan,F,Kolkata,Monthly,Ice Cream,82
+Rahul,F,Chennai,Daily,Ice Cream,72
+Mohan,F,Gurgaon,Never,Burger,52
+Suresh,F,Mumbai,Once,Ice Cream,19
+Mohan,M,Pune,Daily,Burger,55
+Suresh,M,Mumbai,Never,Sandwich,18
+Sita,F,Kolkata,Monthly,Burger,100
+Rohan,F,Bangalore,Monthly,Paneer,81
+Rahul,F,Mumbai,Once,Samosa,25
+Amit,F,Kolkata,Weekly,Burger,99
+Mohan,M,Gurgaon,Once,Pasta,23
+Suresh,M,Bangalore,Monthly,Paneer,37
+Sita,F,Kolkata,Never,Pasta,33
+Amit,F,Kolkata,Monthly,Burger,43
+Kavita,F,Ahmedabad,Monthly,Ice Cream,16
+Mohan,F,Kolkata,Never,Paneer,76
+Anjali,F,Patna,Once,Vada,37
+Rahul,M,Chennai,Monthly,Paneer,83
+Sita,M,Hyderabad,Once,Sandwich,18
+Priya,F,Patna,Never,Burger,53
+Neha,F,Delhi,Monthly,Ice Cream,14
+Rohan,M,Hyderabad,Daily,Samosa,40
+Neha,F,Bangalore,Weekly,Fries,40
+Anjali,M,Patna,Weekly,Fries,36
+Rahul,F,Delhi,Daily,Ice Cream,91
+Kavita,F,Ahmedabad,Weekly,Pizza,33
+Neha,F,Chennai,Weekly,Pizza,25
+Kavita,M,Kolkata,Weekly,Burger,39
+Neha,F,Kolkata,Once,Sandwich,25
+Priya,F,Hyderabad,Once,Fries,94
+Anjali,M,Kolkata,Once,Pizza,55
+Rahul,F,Patna,Never,Fries,38
+Suresh,F,Delhi,Weekly,Pasta,97
+Suresh,F,Gurgaon,Weekly,Samosa,78
+Rahul,F,Pune,Never,Ice Cream,78
+Priya,M,Chennai,Never,Salad,60
+Rahul,F,Kolkata,Never,Fries,75
+Anjali,F,Ahmedabad,Daily,Pasta,31
+Kavita,F,Mumbai,Monthly,Pizza,27
+Rahul,M,Mumbai,Weekly,Samosa,25
+Sita,M,Gurgaon,Never,Paneer,17
+Kavita,M,Kolkata,Never,Sandwich,25
+Rohan,M,Pune,Monthly,Burger,43
